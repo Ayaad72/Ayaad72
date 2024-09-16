@@ -1,6 +1,6 @@
 #Follow me on Linkedin 
 <br/>
-🔗 https://www.linkedin.com/in/omair-akbar/
+🔗 https://www.linkedin.com/in/muhammad-ayaad-627841229/
 
 # 🛡️ Profile Badges
 
