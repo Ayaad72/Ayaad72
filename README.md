@@ -1,15 +1,14 @@
-<img src="[Uploading Brown Simple Fashion Banner Landscape.png…]"/>
- <hr></hr>
+<img src="Users/Ayad/Downloads/Brown_Simple_Fashion_Banner_Landscape.png" alt="Brown Simple Fashion Banner" />
+<hr />
 <p align="center">
   <samp>
     Hi, I'm Ayaad! 👋 <br>
     🔥 Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React/NextJs Typescript ... <br>
-    :email:	ayaadaavi@gmail.com <br>
+    :sparkles: Favorite Tech: JavaScript, React/NextJs, Typescript ... <br>
+    :email: ayaadaavi@gmail.com <br>
     :art: Portfolio: https://codefolio-five.vercel.app/ <br>
-                Twitter: https://twitter.com/ayaad?lang=en<br>
-  :briefcase: Building [https://gupshup/](https://as-solutions.vercel.app/) - Learn the Art of Refactoring <br>
-
+    Twitter: https://twitter.com/ayaad?lang=en<br>
+    :briefcase: Building [https://gupshup/](https://as-solutions.vercel.app/) - Learn the Art of Refactoring <br>
   </samp>
 </p>
 
