@@ -6,7 +6,7 @@
     🔥 Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React/NextJs Typescript ... <br>
     :email:	ayaadaavi@gmail.com <br>
-    :art: Portfolio: https://cdefiverceaap <br>
+    :art: Portfolio: https://codefolio-five.vercel.app/ <br>
                 Twitter: https://twitter.com/ayaad?lang=en<br>
   :briefcase: Building [https://gupshup/](https://as-solutions.vercel.app/) - Learn the Art of Refactoring <br>
 
