@@ -1,3 +1,20 @@
+<img src="![Uploading Brown Simple Fashion Banner Landscape.png…]()
+"/>
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Ayaad! 👋 <br>
+    🔥 Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: JavaScript, React/NextJs Typescript ... <br>
+    :email:	ayaadaavi@gmail.com <br>
+    :art: Portfolio: https://cdefiverceaap <br>
+                Twitter: https://twitter.com/ayaad?lang=en<br>
+  :briefcase: Building https://gupshup/ - Learn the Art of Refactoring <br>
+
+  </samp>
+</p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ayaad-627841229/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayaad__mohd/)
