@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/shamstabraiz81/"  target="_blank">Ayaad!</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/ayaad__mohd/"  target="_blank">Ayaad!</a> 👋</h1>
     
 <h3 align="center">A passionate full-stack developer</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=shamstabraiz alt=shamstabraiz/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=ayaad alt=ayaad/> </p>
 <br/>
 
 ```js
@@ -93,19 +93,19 @@ echo "Holla!! 👋";
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/shamstabraiz" target="_blank">
+<a href="https://github.com/ayaad" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/shamstabraiz91" target="_blank">
+<a href="https://twitter.com/ayaad91" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/shams-tabraiz-910513192" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-ayaad-627841229/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/shamstabraizofficial" target="_blank">
+<a href="https://www.facebook.com/muhammad.ayaad.1/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/shamstabraiz81" target="_blank">
+<a href="https://www.instagram.com/ayaad__mohd/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -122,13 +122,13 @@ echo "Holla!! 👋";
 <tr>
    <td valign="top" width="50%">
     <div align="center">  
-    <p align="center"> <img src=https://git-states.vercel.app/api?username=shamstabraiz&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage alt=shamstabraiz /> </p>
+    <p align="center"> <img src=https://git-states.vercel.app/api?username=ayaad&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage alt=ayaad /> </p>
     </div>
   </td>
     <td valign="top" width="50%">
     <div align="center">  
     <p align="center">
-      <img src="https://git-states.vercel.app/api/top-langs/?username=shamstabraiz&layout=donut&theme=tokyonight" alt="shamstabraiz" />
+      <img src="https://git-states.vercel.app/api/top-langs/?username=ayaad&layout=donut&theme=tokyonight" alt="ayaad" />
     </p>
     </div>
   </td>
@@ -140,7 +140,7 @@ echo "Holla!! 👋";
 <td valign="top" width="100%">
     <div align="center">  
     <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamstabraiz&theme=algolia" alt="shamstabraiz" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaad&theme=algolia" alt="ayaad" />
     </p>
     </div>
   </td>
