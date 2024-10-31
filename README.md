@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://www.instagram.com/ayaad__mohd/"  target="_blank">Ayaad!</a> 👋</h1>
     
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A FULL-STACK SOFTWARE ENGINEER</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ayaad alt=ayaad/> </p>
 <br/>
 
