@@ -6,15 +6,15 @@
 <br/>
 
 ```js
-console.log("Holla!! 👋");
+console.log("HEY!! 👋");
 ```
 
 ```Python
-Print("Holla!! 👋");
+Print("HEY!! 👋");
 ```
 
 ```c++
-cout<< "Holla!! 👋";
+cout << "HEY!! 👋 " 
 ```
 
 
