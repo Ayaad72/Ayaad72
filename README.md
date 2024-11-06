@@ -9,17 +9,17 @@
 console.log("Holla!! 👋");
 ```
 
-```go
-fmt.Println("Holla!! 👋");
+```Python
+Print("Holla!! 👋");
 ```
 
-```php
-echo "Holla!! 👋";
+```c++
+cout<< "Holla!! 👋";
 ```
 
 
 
-## My Skill Set  
+## Skill Set  
 <table align="center"><tr><td valign="top" width="33%">
 
 
