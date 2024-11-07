@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.instagram.com/ayaad__mohd/"  target="_blank">Ayaad!</a> 👋</h1>
     
 <h3 align="center">A FULL-STACK SOFTWARE ENGINEER</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=ayaad alt=ayaad/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Ayaad72 alt=ayaad/> </p>
 <br/>
 
 ```js
@@ -122,13 +122,13 @@ cout << "HEY!! 👋 "
 <tr>
    <td valign="top" width="50%">
     <div align="center">  
-    <p align="center"> <img src=https://git-states.vercel.app/api?username=ayaad&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage alt=ayaad /> </p>
+    <p align="center"> <img src=https://git-states.vercel.app/api?username=Ayaad72&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage alt=ayaad /> </p>
     </div>
   </td>
     <td valign="top" width="50%">
     <div align="center">  
     <p align="center">
-      <img src="https://git-states.vercel.app/api/top-langs/?username=ayaad&layout=donut&theme=tokyonight" alt="ayaad" />
+      <img src="https://git-states.vercel.app/api/top-langs/?username=Ayaad72&layout=donut&theme=tokyonight" alt="ayaad" />
     </p>
     </div>
   </td>
@@ -140,7 +140,7 @@ cout << "HEY!! 👋 "
 <td valign="top" width="100%">
     <div align="center">  
     <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaad&theme=algolia" alt="ayaad" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayaad72&theme=algolia" alt="ayaad" />
     </p>
     </div>
   </td>
