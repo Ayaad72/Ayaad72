@@ -1,5 +1,13 @@
 
 <h1 align="center">Hi there, I'm <a href="https://www.instagram.com/ayaad__mohd/"  target="_blank">Ayaad!</a> 👋</h1>
+
+
+
+<div align="center">
+  <img height="150" src="https://i.imgur.com/okc3knr.gif"  />
+</div>
+
+
     
 <h3 align="center">A FULL-STACK SOFTWARE ENGINEER</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Ayaad72 alt=ayaad/> </p>
