@@ -19,7 +19,7 @@
 
     
 <h3 align="center">A FULL-STACK SOFTWARE ENGINEER</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Ayaad72 alt=ayaad/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=Ayaad72 alt=ayaad/> </p>
 <br/>
 
 ```js
