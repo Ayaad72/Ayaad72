@@ -1,5 +1,6 @@
-
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=51FF66&background=F2FF9800&center=true&width=435&lines=Muhammad+Ayaad" alt="Typing SVG" /></a>
+  </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/Ayad72/readme-typing-svg">
