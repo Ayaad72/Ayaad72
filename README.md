@@ -46,7 +46,10 @@ cout << "HEY!! 👋 "
 
 
 
-## Skill Set  
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&duration=1000&pause=10000&color=FF80A6&background=F2FF9800&center=true&vCenter=true&width=435&lines=Skill+Set" alt="Typing SVG" /></a>
+  <p align="center"/>
+
 <table align="center"><tr><td valign="top" width="33%">
 
 
