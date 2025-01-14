@@ -167,12 +167,6 @@ cout << "HEY!! 👋 "
 </table>  
 
 <table align="center" width="100%">
-<td valign="top" width="100%">
-    <div align="center">  
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayaad72&theme=algolia" alt="ayaad" />
-    </p>
-    </div>
-  </td>
+
 </tr>
 </table>  
